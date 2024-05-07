@@ -12,3 +12,8 @@ This project implements the Pig Game using modern web technologies like HTML, CS
 - Rolling a 1 resets the current player's score to 0.
 - Holding accumulates the current player's score to their total score.
 - The first player to reach 100 points wins the game.
+## Usage
+Open the index.html file in your web browser to start playing the Pig Game. Follow the on-screen instructions to take turns rolling the dice and holding your score. The game will automatically determine the winner when a player reaches 100 points.
+
+## Contributing
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. Please ensure that your code follows the existing coding style and conventions.
